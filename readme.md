@@ -1,10 +1,11 @@
 # IBM Data Analyst Professional Certificate
 
 
-# Data Analysis with Python
+## [Data Analysis with Python](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM_data_analysis_with_python/Module1)
 
-## [Importing Data Sets - Used Cars Pricing](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM_data_analysis_with_python/Module1/DA0101EN-Review-Introduction-20231003-1696291200.jupyterlite.ipynb)
-
--   Acquire data in various ways
--   Obtain insights from data with Pandas library
+    - Access databases using Python database APIs
+    - Analyze Python data using a dataset
+    - Identify three Python libraries and describe their uses
+    - Read data using Python's Pandas package
+    - Demonstrate how to import and export data in Python
 
