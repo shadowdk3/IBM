@@ -73,3 +73,14 @@
     - Create advanced visualizations such as waffle charts, word clouds, regression plots, maps with markers, & choropleth maps
 
     - Generate interactive dashboards containing scatter, line, bar, bubble, pie, and sunburst charts using the Dash framework and Plotly library
+
+## [IBM Data Analyst Capstone Project](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/tree/main/09-IBM_Data_Analyst_Capstone_Project)
+
+    - Apply different techniques to collect and wrangle data
+
+    - Showcase your Data Analysis and Visualization skills 
+
+    - Create a data analysis report and a compelling presentation
+
+    - Demonstrate proficiency with various Python Libraries
+
