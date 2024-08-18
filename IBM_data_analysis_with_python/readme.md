@@ -32,7 +32,7 @@
     - Correct data formatting
     - Standardize and normalize data
 
-## [Data Wrangling - Laptop Pricing](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM_data_analysis_with_python/Module2/practice_data_wrangling.jupyterlite.ipynb)
+### [Data Wrangling - Laptop Pricing](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM_data_analysis_with_python/Module2/practice_data_wrangling.jupyterlite.ipynb)
 
 ## Module 3
 
@@ -40,8 +40,26 @@
     - Demonstrate the basics of grouping
     - Describe data correlation processes
 
-## [Exploratory Data Analysis - Used Car Pricing](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM_data_analysis_with_python/Module3/Exploratory_data_analysis_cars.ipynb)
+### [Exploratory Data Analysis - Used Car Pricing](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM_data_analysis_with_python/Module3/Exploratory_data_analysis_cars.ipynb)
 
--     Explore features or characteristics to predict price of car
+    - Explore features or characteristics to predict price of car
 
-## [Exploratory Data Analysis - Laptop Pricing](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM_data_analysis_with_python/Module3/Exploratory_data_analysis.jupyterlite.ipynb)
+### [Exploratory Data Analysis - Laptop Pricing](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM_data_analysis_with_python/Module3/Exploratory_data_analysis.jupyterlite.ipynb)
+
+## Module 4
+
+    - Evaluate model using visualizationtechniques in Python
+    - Apply polynomial regression techniques using Python
+    - Transform data into a polynomial, then use linear regression to fit the parameter
+    - Apply model evaluation using visualization in Python
+    - Apply polynomial regression techniques to Python
+    - Predict and make decisions based on to Python data models
+    - Describe the use of R-squared and MSE for in-sample evaluation
+    - Define the term "curvilinear relationship"
+
+### [Model Development - Used Car Pricing](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM_data_analysis_with_python/Module4/DA0101EN-4-Review-Model-Development-20231003-1696291200.jupyterlite.ipynb)
+
+    - Develop prediction models
+
+### [Model Development - Laptop Pricing](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM_data_analysis_with_python/Module4/practice_model_development_laptops.jupyterlite.ipynb)
+
