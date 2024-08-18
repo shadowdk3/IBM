@@ -93,3 +93,13 @@
     - Evaluate real-world case studies showcasing the successful application of Generative AI in deriving meaningful insights 
 
     - Analyze the ethical considerations and challenges associated with using Generative AI in data analytics
+
+## [Data Analyst Career Guide and Interview Preparation](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/tree/main/11-Data_Analyst_Career_Guide_and_Interview_Preparation)
+
+    - Describe the role of a data analyst and some career path options as well as the prospective opportunities in the field.
+
+    - Explain how to build a foundation for a job search, including researching job listings, writing a resume, and making a portfolio of work.
+
+    - Summarize what a candidate can expect during a typical job interview cycle, different types of interviews, and how to prepare for interviews.
+
+    - Explain how to give an effective interview, including techniques for answering questions and how to make a professional personal presentation.
