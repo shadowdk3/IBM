@@ -14,6 +14,16 @@
 
     - Analyze data in spreadsheets by using filter, sort, look-up functions, as well as pivot tables.
 
+## [Data Visualization and Dashboards with Excel and Cognos](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/tree/main/03-Data_Visualization_and_Dashboards_with_Excel_and_Cognos)
+
+    - Create basic visualizations such as line graphs, bar graphs, and pie charts using Excel spreadsheets.
+
+    - Explain the important role charts play in telling a data-driven story. 
+
+    - Construct advanced charts and visualizations such as Treemaps, Sparklines, Histogram, Scatter Plots, and Filled Map Charts.
+
+    - Build and share interactive dashboards using Excel and Cognos Analytics.
+
 ## [Data Analysis with Python](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM_data_analysis_with_python)
 
     - Access databases using Python database APIs
