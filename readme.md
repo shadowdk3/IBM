@@ -84,3 +84,12 @@
 
     - Demonstrate proficiency with various Python Libraries
 
+## [Generative AI: Enhance your Data Analytics Career](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/tree/main/10-Generative_AI_Enhance_your_Data_Analytics_Career)
+
+    - Describe how you can use Generative AI tools and techniques in the context of data analytics across industries
+
+    - Implement various data analytic processes such as data preparation, analysis, visualization and storytelling using Generative AI tools
+
+    - Evaluate real-world case studies showcasing the successful application of Generative AI in deriving meaningful insights 
+
+    - Analyze the ethical considerations and challenges associated with using Generative AI in data analytics
