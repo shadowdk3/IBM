@@ -54,15 +54,22 @@
 
     - Compose more powerful queries with advanced SQL techniques like views, transactions, stored procedures, and joins. 
     
-## [Data Analysis with Python](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM_data_analysis_with_python)
+## [Data Analysis with Python](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/tree/main/07-Data_Analysis_with_Python)
 
-    - Access databases using Python database APIs
+    - Develop Python code for cleaning and preparing data for analysis - including handling missing values, formatting, normalizing, and binning data
 
-    - Analyze Python data using a dataset
+    - Perform exploratory data analysis and apply analytical techniques to real-word datasets using libraries such as Pandas, Numpy and Scipy
 
-    - Identify three Python libraries and describe their uses
+    - Manipulate data using dataframes, summarize data, understand data distribution, perform correlation and create data pipelines
 
-    - Read data using Python's Pandas package
+    - Build and evaluate regression models using machine learning scikit-learn library and use them for prediction and decision making
 
-    - Demonstrate how to import and export data in Python
+## [Data Visualization with Python](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/tree/main/08-Data_Visualization_with_Python)
 
+    - mplement data visualization techniques and plots using Python libraries, such as Matplotlib, Seaborn, and Folium to tell a stimulating story
+
+    - Create different types of charts and plots such as line, area, histograms, bar, pie, box, scatter, and bubble
+
+    - Create advanced visualizations such as waffle charts, word clouds, regression plots, maps with markers, & choropleth maps
+
+    - Generate interactive dashboards containing scatter, line, bar, bubble, pie, and sunburst charts using the Dash framework and Plotly library
