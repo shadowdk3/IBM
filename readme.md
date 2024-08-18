@@ -44,6 +44,16 @@
 
     - Build a dashboard using Python and libraries like Pandas, Beautiful Soup and Plotly using Jupyter notebook.
 
+## [Databases and SQL for Data Science with Python](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/tree/main/06-Databases_and_SQL_for_Data_Science_with_Python)
+
+    - Analyze data within a database using SQL and Python.
+
+    - Create a relational database and work with multiple tables using DDL commands. 
+
+    - Construct basic to intermediate level SQL queries using DML commands. 
+
+    - Compose more powerful queries with advanced SQL techniques like views, transactions, stored procedures, and joins. 
+    
 ## [Data Analysis with Python](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM_data_analysis_with_python)
 
     - Access databases using Python database APIs
