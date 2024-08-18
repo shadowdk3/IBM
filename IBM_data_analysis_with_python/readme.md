@@ -79,6 +79,15 @@
 
 ### [Model Evaluation and Refinement - Laptop Pricing](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM_data_analysis_with_python/Module5/practice_model_evaluation.jupyterlite.ipynb)
 
+## Module 6
 
+    - Write Python code to import data sets into a data frame
+    - Generate appropriate Python code to wrangle data
+    - Create boxplots and scatter plots using Python
+    - Calculate R-squared and MSE using Python
+    - Evaluate different data models by splitting data into training and testing sets
+    - Perform polynomial transformation on data sets
+
+### [Final Project - Data Analytics for House Pricing Data Set](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM_data_analysis_with_python/Module6/House_Sales_in_King_Count_USA-20231003-1696291200.jupyterlite.ipynb)
 
 
