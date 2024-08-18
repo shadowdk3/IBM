@@ -1,5 +1,8 @@
 # IBM Data Analyst Professional Certificate
 
+## [Introduction to Data Analytics](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/tree/main/Introduction_to_Data_Analytics)
+
+    - understand the fundamentals of the data analysis process including gathering, cleaning, analyzing and sharing data and communicating your insights with the use of visualizations and dashboard tools
 
 ## [Data Analysis with Python](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM_data_analysis_with_python)
 
