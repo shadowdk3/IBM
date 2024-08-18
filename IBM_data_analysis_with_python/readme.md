@@ -63,3 +63,22 @@
 
 ### [Model Development - Laptop Pricing](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM_data_analysis_with_python/Module4/practice_model_development_laptops.jupyterlite.ipynb)
 
+## Module 5
+
+    - Describe data model refinement techniques
+    - Explain overfitting, underfitting, and model selection
+    - Apply ridge regression to regularize and reduce the standard errors to avoid overfitting a regression model
+    - Apply grid search techniques using Python
+    - Explain how grid searches work
+    - Describe how ridge regression works to avoid overfitting a model
+
+### [Model Evaluation and Refinement - Used Cars Pricing](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM_data_analysis_with_python/Module5/Model_Evaluation_and_Refinement_cars.ipynb)
+
+    
+    - Evaluate and refine prediction models
+
+### [Model Evaluation and Refinement - Laptop Pricing](https://github.com/shadowdk3/IBM-Data-Analyst-Professional-Certificate/blob/main/IBM_data_analysis_with_python/Module5/practice_model_evaluation.jupyterlite.ipynb)
+
+
+
+
